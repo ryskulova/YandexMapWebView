@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Downloads/YandexMap/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa8ac39bb53cf5d1e2e1a666ff4eaaf286001ac0">
+        <dex dex="/Users/mac/Downloads/YandexMap/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2e5baf9d60c400965eae446756257e076446acd4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mac/Downloads/YandexMap/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/mac/Downloads/YandexMap/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_be5d364a6b28dfed0be9454b2c324fecd9033ae5/classes.dex" />
+    </item>
+
+</items>
